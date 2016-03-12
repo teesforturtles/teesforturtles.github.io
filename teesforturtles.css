@@ -127,6 +127,9 @@ text-align:center;
 text-align:justify;
 text-indent: 50px;
 }
+.threats p{
+text-align:center;
+}
 .how-we-help a{
 color:#000000;
 }
