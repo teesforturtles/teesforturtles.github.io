@@ -30,6 +30,10 @@ background-color: #00ff99;
 	text-align:center;
 
 }
+.new-designs a{
+color:#000000;
+}
+
 .quotes h2{
 	text-align:center;
 
@@ -39,8 +43,12 @@ background-color: #00ff99;
 
 }
 	
+.earthdaycampaign h2{
+	text-align:center;
 }
-
+.earthdaycampaign p{
+text-align:justify;
+}
 }
 .home p{
 text-align:justify;
