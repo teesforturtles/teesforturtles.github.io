@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<!--
+TEMPLATE
+Name: Zoo Planet
+Version: 1.0
+Created: 23 January 2014
+
+AUTHOR
+Design and code by: http://www.bootshape.com
+Free stock photos by: http://www.bootshape.com
+
+Read full license: http://www.bootshape.com/license.php
+
+CREDITS
+Background: http://subtlepatterns.com/ (extra_clean_paper)
+Fonts: http://www.google.com/fonts (Actor, Duru_Sans)
+
+SUPPORT
+E-mail: bootshape.com@gmail.com
+Contact: http://www.bootshape.com/contact.php
+-->
+<html>
+  <head>
+    <title>Tees for Turtles</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    
+    <!--Google Fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Duru+Sans|Actor' rel='stylesheet' type='text/css'>
+    
+    <!--Bootshape-->
+    <link href="css/bootshape.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <!-- Navigation bar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Tees for<span class="green"> Turtles</span></a>
+        </div>
+        <nav role="navigation" class="collapse navbar-collapse navbar-right">
+          <ul class="navbar-nav nav">
+            <li class="active"><a href="index.html">Home</a></li>
+            <!--<li class="dropdown">
+              <a data-toggle="dropdown" href="#" class="dropdown-toggle">Dropdown <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Item 1</a></li>
+                <li class="active"><a href="#">Item 2</a></li>
+                <li><a href="#">Item 3</a></li>
+                <li class="divider"></li>
+                <li><a href="#">All Items</a></li>
+              </ul>
+            </li>--!>
+            <li><a href="about.html">About</a></li>
+            <li><a href="shop.html">Shop</a></li>
+	    <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div><!-- End Navigation bar -->
+
+
+    <!-- Slide gallery--> 
+    <div class="jumbotron">
+      <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+          <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+          <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+        </ol>
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+          <div class="item active">
+            <img src="img/carousel1.jpg" alt="">
+            <div class="carousel-caption">
+            </div>
+          </div>
+          <div class="item">
+            <img src="img/carousel2.jpg" alt="">
+            <div class="carousel-caption">
+            </div>
+          </div>
+          <div class="item">
+            <img src="img/carousel3.jpg" alt="">
+            <div class="carousel-caption">
+            </div>
+          </div>
+        </div>
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+      </div>
+    </div> 
+<!--End Slide gallery -->
+
+    <h3 class="text-center"></h3>
+    <div class="container">
+      <h3 class="text-center">How and Why We Help</h3>
+      <p>The t-shirt you just ordered could change the lives of our frippery friends!! Today, there are six species of sea turtles that nest at the Outer Banks. A portion of the money you pay for a shirt will be donated to N.E.S.T., a non-profit organization that helps the sea turtles on the Outer Banks, NC. N.E.S.T. stands for Network for Endangered Sea Turtles. Our donations help pay for veterinary bills, purchase rehabilitation supplies, and cover transportation costs. To find out more about what N.E.S.T. does, <a href="http://www.nestonline.org/">CLICK HERE.</a> </p>
+<h2>Threats to Sea Turtles</h2>
+<div class="threats">
+<p>You might be wondering why the sea turtles need your help. Here are some threats that are impacting turtle populations: </p>
+</div>
+<h3>Artificial Lighting</h3>
+	<p>When baby sea turtles hatch, they rely on moonlight to find the ocean because most sea turtles hatch during the night. Beach houses with lights that face the beach look alot like the moon to a newly hatched sea turtle, which results in the turtles never making it to sea. 
+		<h4>How YOU can help:</h4> 
+			<p>Turn off any lights that face the ocean!</p>
+<h3>Oil Spills and Marine Pollution</h3>
+	<p>Marine pollutants such as toxic metals, PCBs, fertilizers, chemicals, and some petroleum products can harm sea turtles both directly and indirectly. They can cause serious health issues, and kill the turtles' food. Oil is very harmful. Even though it doesn't tend to stick to turtles, oil can still get in their eyes, skin, and lungs, which can cause serious health problems. Oil also kills seagrass, which is a main part of the green sea turtle's diet. The hawksbill sea turtle, loggerhead sea turtle, and Kemp's ridley sea turtles' diets all contain certain sponges and invertebrates. Sponges and invertebrates have suffered population losses due to oil, and turtles have also been found to grow weak and vulnerable after extended exposure to oil. There is also the problem of tar ingestion, which can lead to swelling that can dislocate intestines and liver. Contamination of the turtles' food can have effects on the digestive tract. If sea turtle eggs get expossed to oil the chances of survival are greatly decreased as the hatchlings will most likely have physical deformities.</p> 
+ 		<h4>How YOU can help:</h4> 
+			<p>Make sure you aren't using too much fertilizer on your flowers, because 			excess fertilizer can run off into the ocean. Just a small act like this 				will decrease the amount of harmful toxins in our waters!</p>
+
+<h3>Ocean Plastic</h3>
+	<p>Trash such as plastic bags resemble jellyfish, a common source of food for sea turtles. If a turtle eats it, the plastic can clog its digestive system, and it can kill the turtle.</p>
+	<h4>How YOU can help:</h4> 
+			<p>Keep track of your trash! If you see litter laying around, pick it up. 			Even if you don't live close to the ocean, the trash will wind up there 			eventually.</p>
+<h3>Tourism</h3>
+	<p>Lots of people will travel to see sea trurtles. This can result in tourists trying to steal turtles, boat collisions, and other acidents. Some tourists have even tried taking selfies with turtles, which can lead to confusion.</p>
+	<h4>How YOU can help:</h4>	
+		<p>Have you ever heard, "Take only pictures, leave only footprints"? If you see a turtle, don't disturb it! Taking pictures is okay as long as you don't use a flash, or get too close. </p>
+<h3>Fishing</h3>
+	<p>Over 8 million sea turtles have died in the past 20 years because of injuries caused by fishing boats. Most fishing boats use nets and hook systems that catch everything nearby, including sea turtles, dolphins, or even sharks. When turtles are caught in one of these nets, they often die drowning ensnared in the nets because they can't come up for air. Sea turtles also accidently swallow fish hooks that get caught in their stomachs. </p>
+	<h4>How YOU can help:</h4>
+		<p>There isn't as much you can do unless you are a commercial fisherman. If you are a fisherman though, you can install TEDs, Turtle Excluder Devices, to your nets, and you can also swich from "J" hooks to circle hooks. These small acts save lots of turtle lives! If you aren't a fisherman, you can show your support for companies and countries using TEDs. You can also make sure you are buying fish from turtle-friendly fisheries. </p>
+<h3>Poaching</h3>
+	<p>In other countries sea turtles are killed for their meat, shells, and leather flippers. Turtle eggs are also considered a delicacy in some cultures. </p>
+	<h4>How YOU can help:</h4>
+		<p>Don't eat sea turtle meat! The shells are also sometimes made into jewelry, so make sure you don't buy turtle shell jewelry.</p>
+	<h3>Disease</h3>
+	<p>Another threat to sea turtle populations is fibropapillomatosis, a disease that manifests through tumors on a sea turtle's skin. They can grow so large that they can hinder a sea turtle's abiltity to see, eat, and even to swim.</p>
+	<h4>How YOU can help:</h4>
+		<p>Sadly, there isn't much we can do about a disease, but if you buy a shirt or donate money to turtle conservation efforts, the money can help researchers figure out the cause of the disease.</p>
+	<h2>Why?</h2>
+	<p>Why do we care so much about the future of sea turtles? In the ocean, sea turtles are one of the few creatures that eat sea grass. Sea grass needs to be constanly cut short to grow across the ocean floor. Lots of animals live in the sea grass and depend on it. If sea turtles go extinct, sea grass would become very scarce and unhealthy. Without the health of the sea grass, lower levels of the food chain would eventually become extinct, affecting the higher levels of the food chain as well. Sea turtles also use beaches and dunes to lay their eggs in. When hatched eggs decompose, nutrients are added to the sand. These nutrients are important for dune vegetation to grow. Strong root systems help keep beaches from erosion.   </p>
+    </div><!-- End Content -->
+    
+
+    <!-- Footer -->
+    <div class="footer text-center">
+        <p>theme by &copy; 2014 Zoo Planet. All Rights Reserved. Proudly created by <a class="green" href="http://bootshape.com">Bootshape.com</a></p>
+    </div><!-- End Footer -->
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!-- // <script src="https://code.jquery.com/jquery.js"></script> -->
+    <script src="js/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootshape.js"></script>
+  </body>
+</html>
